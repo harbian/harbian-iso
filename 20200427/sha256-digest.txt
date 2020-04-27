@@ -1,0 +1,3 @@
+5982033f4990df0a674a869afdadccdb0cf7bfeea8bafa5358ca2b86ef6797ed  harbian-20200427-buster.list.gz
+be13380f946c98ab520012de8a493c5aecad4adce15f37c5776ffeb60c0af669  harbian-20200427-buster-netinstall.iso
+4b64df730e6ec073093b37e694087b6406b57bc02ba935862eb4c69325316dc7  harbian-20200427-buster-netinstall.iso.asc
